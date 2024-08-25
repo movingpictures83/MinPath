@@ -1,0 +1,2 @@
+Prefix plugins/MinPath/example/
+Plugin MinPath inputfile demo.ko outputfile demo.ko.minpath
